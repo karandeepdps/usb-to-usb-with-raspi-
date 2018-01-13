@@ -1,5 +1,8 @@
 # usb-to-usb-with-raspi
 
+**Version Final**
+
+
 This is a simple usb to usb data transfer module built using python and pyqt.
 This is ready to work on raspberry pi.
 
@@ -7,7 +10,6 @@ This is ready to work on raspberry pi.
 
 
 
-**Version Final**
 
 
 ## How to make it run on different platform:
