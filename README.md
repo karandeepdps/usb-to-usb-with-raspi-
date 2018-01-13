@@ -13,7 +13,7 @@ This is ready to work on raspberry pi.
 ## How to make it run on different platform:
 Open usbtousb.py and replace  ` /media/pi/ ` with folder where your plugged in devices mount.
 
-##Built on
+## Built on
 PyQt4.QtCore.qVersion()
 '4.8.7'
 
